@@ -4,11 +4,7 @@ Projeto da Unidade 01 de **Algoritmos e Estrutura de Dados II · Grafos** (UFRN 
 
 ## Integrantes
 
-> ⚠️ **PREENCHER antes de entregar:** nome completo de cada integrante. Sem os nomes completos aqui e no repositório, a nota não é computada.
-
-- Nome Completo 1
-- Nome Completo 2
-- Nome Completo 3
+- Elison Guilherme Dantas Martins
 
 ## Vídeo
 
