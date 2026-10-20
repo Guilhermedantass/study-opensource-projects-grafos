@@ -285,11 +285,4 @@ requirements.txt                     dependências com versões fixadas
 
 ## Referências
 
-- Avelino, G.; Passos, L.; Hora, A.; Valente, M. T. *A novel approach for estimating truck factors*. IEEE International Conference on Program Comprehension (ICPC), 2016.
-- Albert, R.; Jeong, H.; Barabási, A.-L. *Error and attack tolerance of complex networks*. Nature 406, 2000.
-- Latora, V.; Marchiori, M. *Efficient behavior of small-world networks*. Physical Review Letters 87, 2001.
-- Seidman, S. B. *Network structure and minimum degree*. Social Networks 5, 1983.
-- Cohen, J. *Trusses: cohesive subgraphs for social network analysis*. National Security Agency Technical Report, 2008.
-- Newman, M. *Networks*. 2ª ed. Oxford University Press, 2018.
-- Hagberg, A.; Schult, D.; Swart, P. *Exploring network structure, dynamics, and function using NetworkX*. Proceedings of the 7th Python in Science Conference (SciPy), 2008.
 - Material da disciplina Algoritmos e Estrutura de Dados II (Grafos), semanas 2 a 6, Prof. Ivanovitch Silva, UFRN/DCA, 2026.
