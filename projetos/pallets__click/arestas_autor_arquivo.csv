@@ -1,0 +1,910 @@
+autor,arquivo,commits,ultimo_ts
+180909,src/click/core.py,1,1633964902
+180909,src/click/termui.py,1,1633964902
+Adam Dangoor,pyproject.toml,2,1758297763
+Adam Dangoor,src/click/_winconsole.py,1,1739436529
+Adam Dangoor,src/click/core.py,1,1758294160
+Adam Karpierz,src/click/_termui_impl.py,1,1777505138
+Adrian Garcia Badaracco,src/click/utils.py,1,1647476835
+Adrien Pensart,src/click/core.py,1,1620149319
+Alan Velasco,src/click/core.py,1,1587405309
+Alan Velasco,tests/test_context.py,1,1587405309
+Alan Velasco,tests/test_imports.py,1,1587405309
+Albert Tugushev,src/click/core.py,1,1666032487
+Albert Tugushev,tests/test_commands.py,1,1666032487
+Alex Ball,src/click/termui.py,1,1633880527
+Alex Koster,pyproject.toml,1,1779229506
+Alexander Regueiro,src/click/shell_completion.py,1,1683518481
+Alexander Regueiro,tests/test_shell_completion.py,1,1683518481
+Alexander Seiler,src/click/core.py,1,1683474678
+Alexander Seiler,src/click/parser.py,1,1683474678
+Alexander Shadchin,src/click/types.py,1,1648756395
+Amy,docs/conf.py,1,1596581712
+Amy,src/click/__init__.py,2,1606328693
+Amy,src/click/core.py,4,1596581624
+Amy,src/click/parser.py,2,1593624839
+Amy,src/click/shell_completion.py,2,1596581712
+Amy,src/click/types.py,1,1596581624
+Amy,tests/test_arguments.py,2,1593527162
+Amy,tests/test_options.py,1,1593624839
+Amy,tests/test_termui.py,1,1593624839
+Andreas Backx,CHANGES.md,1,1784179408
+Andreas Backx,pyproject.toml,1,1784179408
+Andreas Backx,src/click/__init__.py,1,1734627852
+Andreas Backx,src/click/_compat.py,2,1734899863
+Andreas Backx,src/click/_termui_impl.py,4,1778005124
+Andreas Backx,src/click/_utils.py,1,1777924980
+Andreas Backx,src/click/_winconsole.py,1,1734899863
+Andreas Backx,src/click/core.py,5,1777924980
+Andreas Backx,src/click/exceptions.py,2,1777504307
+Andreas Backx,src/click/parser.py,1,1777924980
+Andreas Backx,src/click/shell_completion.py,2,1777504307
+Andreas Backx,src/click/termui.py,3,1784179408
+Andreas Backx,src/click/types.py,4,1784179408
+Andreas Backx,tests/test_basic.py,1,1736693998
+Andreas Backx,tests/test_formatting.py,1,1736693998
+Andreas Backx,tests/test_imports.py,2,1784179408
+Andreas Backx,tests/test_info_dict.py,1,1736693998
+Andreas Backx,tests/test_normalization.py,1,1736693998
+Andreas Backx,tests/test_shell_completion.py,1,1730666311
+Andreas Backx,tests/test_termui.py,2,1778005124
+Andreas Maier,src/click/_winconsole.py,1,1592361897
+Andreas Maier,src/click/types.py,1,1593375177
+Andreas Maier,tests/test_options.py,1,1593375177
+Angus L'Herrou,src/click/core.py,2,1634161717
+Angus L'Herrou,src/click/decorators.py,1,1621001963
+Angus L'Herrou,src/click/globals.py,1,1634161717
+Angus L'Herrou,src/click/termui.py,1,1634161717
+Angus L'Herrou,tests/test_command_decorators.py,1,1621001963
+Animesh Tripathi,src/click/core.py,1,1759850529
+Animesh Tripathi,tests/test_options.py,1,1759850529
+Anthony Sottile,src/click/termui.py,1,1731110263
+Anthony Sottile,tests/typing/typing_progressbar.py,1,1731110263
+Antoine Lambert,src/click/testing.py,1,1747944863
+Antoine Lambert,tests/test_chain.py,1,1747944863
+Anurag Saxena,docs/documentation.md,2,1779201377
+Armin Ronacher,.gitignore,3,1522493414
+Armin Ronacher,docs/conf.py,4,1438969593
+Armin Ronacher,examples/README,1,1400071871
+Armin Ronacher,examples/aliases/README,2,1401022246
+Armin Ronacher,examples/aliases/aliases.ini,1,1401022146
+Armin Ronacher,examples/aliases/aliases.py,2,1401197376
+Armin Ronacher,examples/colors/README,2,1401202790
+Armin Ronacher,examples/colors/colors.py,2,1401202790
+Armin Ronacher,examples/complex/README,2,1400714681
+Armin Ronacher,examples/complex/complex/__init__.py,1,1400714501
+Armin Ronacher,examples/complex/complex/cli.py,4,1402384358
+Armin Ronacher,examples/complex/complex/commands/__init__.py,1,1400714501
+Armin Ronacher,examples/complex/complex/commands/cmd_init.py,1,1400714501
+Armin Ronacher,examples/complex/complex/commands/cmd_status.py,1,1400714501
+Armin Ronacher,examples/imagepipe/.gitignore,1,1407835530
+Armin Ronacher,examples/imagepipe/README,1,1407832533
+Armin Ronacher,examples/imagepipe/example01.jpg,1,1407832533
+Armin Ronacher,examples/imagepipe/example02.jpg,1,1407832533
+Armin Ronacher,examples/imagepipe/imagepipe.py,1,1407832533
+Armin Ronacher,examples/inout/README,1,1400071871
+Armin Ronacher,examples/inout/inout.py,2,1399413805
+Armin Ronacher,examples/naval/README,1,1400071871
+Armin Ronacher,examples/naval/naval.py,2,1401362909
+Armin Ronacher,examples/repo/README,1,1400071871
+Armin Ronacher,examples/repo/repo.py,8,1401310271
+Armin Ronacher,examples/termui/README,1,1401099131
+Armin Ronacher,examples/termui/termui.py,10,1427799055
+Armin Ronacher,examples/validation/README,1,1401026076
+Armin Ronacher,examples/validation/validation.py,4,1401197376
+Armin Ronacher,tests/conftest.py,6,1399728559
+Armin Ronacher,tests/test_arguments.py,19,1448386167
+Armin Ronacher,tests/test_basic.py,15,1514017677
+Armin Ronacher,tests/test_chain.py,8,1448623652
+Armin Ronacher,tests/test_commands.py,13,1522493776
+Armin Ronacher,tests/test_compat.py,4,1514017677
+Armin Ronacher,tests/test_context.py,7,1442361457
+Armin Ronacher,tests/test_defaults.py,1,1407749206
+Armin Ronacher,tests/test_formatting.py,3,1522493776
+Armin Ronacher,tests/test_imports.py,7,1523426921
+Armin Ronacher,tests/test_normalization.py,2,1401969393
+Armin Ronacher,tests/test_options.py,19,1514017677
+Armin Ronacher,tests/test_termui.py,1,1407759788
+Armin Ronacher,tests/test_testing.py,6,1446762282
+Ashwin Madavan,src/click/shell_completion.py,1,1640673073
+BALaka-18,src/click/core.py,1,1616008295
+BALaka-18,src/click/termui.py,1,1614683993
+BALaka-18,src/click/types.py,1,1617035066
+BALaka-18,tests/test_commands.py,1,1616008295
+"Ben ""535"" Blank",docs/shell-completion.md,1,1739381530
+Ben Falk,src/click/shell_completion.py,1,1779124473
+Ben Falk,tests/test_shell_completion.py,1,1779124473
+Benjamin Akhras,src/click/core.py,1,1610707646
+Benjamin Akhras,tests/test_options.py,2,1613422088
+Blazej Michalik,src/click/core.py,1,1683659459
+Blazej Michalik,src/click/decorators.py,1,1683659459
+Bob Kerns,docs/options.md,1,1747867657
+Brian Grohe,src/click/__init__.py,1,1651520290
+Brian Grohe,src/click/_compat.py,1,1651520290
+Brian Grohe,src/click/_termui_impl.py,1,1651520290
+Brian Grohe,src/click/_textwrap.py,1,1651520290
+Brian Grohe,src/click/_winconsole.py,1,1651520290
+Brian Grohe,src/click/core.py,1,1651520290
+Brian Grohe,src/click/decorators.py,1,1651520290
+Brian Grohe,src/click/exceptions.py,1,1651520290
+Brian Grohe,src/click/formatting.py,1,1651520290
+Brian Grohe,src/click/globals.py,1,1651520290
+Brian Grohe,src/click/parser.py,1,1651520290
+Brian Grohe,src/click/shell_completion.py,1,1651520290
+Brian Grohe,src/click/termui.py,1,1651520290
+Brian Grohe,src/click/testing.py,1,1651520290
+Brian Grohe,src/click/types.py,1,1651520290
+Brian Grohe,src/click/utils.py,1,1651520290
+Brian Grohe,tests/test_imports.py,1,1651520290
+Brian Hall,docs/options.md,3,1770496828
+Casper da Costa-Luis,docs/contrib.md,1,1787591630
+Cesare De Cal,src/click/termui.py,1,1592582786
+Chestnut,docs/conf.py,1,1714118546
+Chris Kamradt,tests/test_arguments.py,1,1430880844
+Chris Pappalardo,src/click/_termui_impl.py,1,1779219451
+Chris Pappalardo,src/click/core.py,1,1716323623
+Chris Pappalardo,tests/test_defaults.py,1,1716323623
+Chris Pappalardo,tests/test_termui.py,1,1779219451
+Chris Pappalardo,tests/test_testing.py,1,1779219451
+Christian Clauss,examples/imagepipe/imagepipe.py,1,1572261920
+Christian Clauss,tests/test_context.py,1,1572262049
+Christopher Palmer,tests/test_termui.py,1,1559321545
+Clément Robert,src/click/testing.py,1,1751623409
+Clément Robert,tests/test_testing.py,1,1751624187
+Colin Watson,CHANGES.md,1,1782897402
+Colin Watson,tests/test_basic.py,1,1782897402
+Craig de Stigter,docs/api.md,1,1777505623
+Craig de Stigter,docs/utils.md,1,1777505623
+Craig de Stigter,src/click/__init__.py,1,1777505623
+Craig de Stigter,src/click/_compat.py,1,1777505623
+Craig de Stigter,src/click/_termui_impl.py,1,1777505623
+Craig de Stigter,src/click/termui.py,1,1777505623
+Dan Sully,tests/test_options.py,1,1526325468
+Danny Sepler,src/click/core.py,1,1625502820
+Danny Sepler,tests/test_options.py,1,1625502820
+Dave Carlson,tests/test_termui.py,1,1526330610
+Dave Carlson,tests/test_testing.py,1,1526330610
+David Euresti,src/click/decorators.py,1,1639771421
+David Fischer,.readthedocs.yaml,1,1592932340
+David Lord,.devcontainer/devcontainer.json,1,1713982664
+David Lord,.devcontainer/on-create-command.sh,1,1713982664
+David Lord,.editorconfig,2,1713982664
+David Lord,.github/ISSUE_TEMPLATE/bug-report.md,2,1713982664
+David Lord,.github/ISSUE_TEMPLATE/config.yml,2,1713982664
+David Lord,.github/ISSUE_TEMPLATE/feature-request.md,1,1713982664
+David Lord,.github/pull_request_template.md,2,1713982664
+David Lord,.github/workflows/lock.yaml,9,1775256518
+David Lord,.github/workflows/pre-commit.yaml,9,1775256922
+David Lord,.github/workflows/publish.yaml,18,1775256922
+David Lord,.github/workflows/tests.yaml,33,1775256922
+David Lord,.github/workflows/zizmor.yaml,2,1775256922
+David Lord,.gitignore,5,1747324266
+David Lord,.pre-commit-config.yaml,35,1776830206
+David Lord,.readthedocs.yaml,8,1747324266
+David Lord,LICENSE.txt,1,1713982664
+David Lord,README.md,4,1749761701
+David Lord,docs/_static/click-icon.svg,4,1749761701
+David Lord,docs/_static/click-logo.svg,1,1749761701
+David Lord,docs/_static/click-name.svg,1,1749761701
+David Lord,docs/conf.py,14,1749761701
+David Lord,docs/quickstart.md,1,1779511247
+David Lord,docs/support-multiple-versions.md,1,1747795835
+David Lord,docs/utils.md,1,1779511247
+David Lord,examples/README,2,1687976803
+David Lord,examples/aliases/aliases.py,9,1776830206
+David Lord,examples/aliases/pyproject.toml,3,1746914552
+David Lord,examples/colors/README,2,1779511247
+David Lord,examples/colors/colors.py,4,1613442141
+David Lord,examples/colors/pyproject.toml,3,1746914552
+David Lord,examples/completion/README,3,1687976803
+David Lord,examples/completion/completion.py,3,1622125861
+David Lord,examples/completion/pyproject.toml,3,1746914552
+David Lord,examples/complex/complex/cli.py,6,1692472394
+David Lord,examples/complex/complex/commands/cmd_init.py,3,1587365654
+David Lord,examples/complex/complex/commands/cmd_status.py,2,1583531404
+David Lord,examples/complex/pyproject.toml,3,1746914552
+David Lord,examples/imagepipe/README,1,1692472394
+David Lord,examples/imagepipe/imagepipe.py,8,1618283524
+David Lord,examples/imagepipe/pyproject.toml,3,1746914552
+David Lord,examples/inout/inout.py,1,1583531404
+David Lord,examples/inout/pyproject.toml,3,1746914552
+David Lord,examples/naval/naval.py,4,1587360169
+David Lord,examples/naval/pyproject.toml,3,1746914552
+David Lord,examples/repo/pyproject.toml,3,1746914552
+David Lord,examples/repo/repo.py,7,1776830206
+David Lord,examples/termui/pyproject.toml,3,1746914552
+David Lord,examples/termui/termui.py,6,1619192327
+David Lord,examples/validation/pyproject.toml,3,1746914552
+David Lord,examples/validation/validation.py,6,1587365654
+David Lord,pyproject.toml,19,1779511247
+David Lord,src/click/__init__.py,41,1713982664
+David Lord,src/click/_compat.py,26,1779511247
+David Lord,src/click/_termui_impl.py,25,1749406489
+David Lord,src/click/_textwrap.py,5,1692550546
+David Lord,src/click/_winconsole.py,14,1746913092
+David Lord,src/click/core.py,71,1776830206
+David Lord,src/click/decorators.py,30,1724458381
+David Lord,src/click/exceptions.py,16,1724457553
+David Lord,src/click/formatting.py,12,1746913092
+David Lord,src/click/globals.py,10,1713982664
+David Lord,src/click/parser.py,17,1776830206
+David Lord,src/click/py.typed,1,1619192327
+David Lord,src/click/shell_completion.py,13,1692550546
+David Lord,src/click/termui.py,25,1779511247
+David Lord,src/click/testing.py,20,1713982664
+David Lord,src/click/types.py,37,1776830206
+David Lord,src/click/utils.py,28,1779511247
+David Lord,tests/conftest.py,3,1633886095
+David Lord,tests/test_arguments.py,12,1746913092
+David Lord,tests/test_basic.py,13,1630678142
+David Lord,tests/test_chain.py,8,1692472394
+David Lord,tests/test_command_decorators.py,2,1693602703
+David Lord,tests/test_commands.py,10,1693602703
+David Lord,tests/test_compat.py,6,1587360169
+David Lord,tests/test_context.py,5,1614962766
+David Lord,tests/test_custom_classes.py,1,1596941366
+David Lord,tests/test_defaults.py,8,1776830206
+David Lord,tests/test_formatting.py,6,1617377744
+David Lord,tests/test_imports.py,10,1775256753
+David Lord,tests/test_info_dict.py,1,1597620225
+David Lord,tests/test_normalization.py,3,1713982664
+David Lord,tests/test_options.py,21,1776830206
+David Lord,tests/test_parser.py,1,1692548005
+David Lord,tests/test_shell_completion.py,9,1747767943
+David Lord,tests/test_termui.py,16,1776830206
+David Lord,tests/test_testing.py,11,1713982664
+David Lord,tests/typing/typing_aliased_group.py,2,1713982664
+David Lord,tests/typing/typing_confirmation_option.py,2,1713982664
+David Lord,tests/typing/typing_options.py,2,1713982664
+David Lord,tests/typing/typing_simple_example.py,2,1713982664
+David Lord,tests/typing/typing_version_option.py,2,1713982664
+Daw-Ran Liou,tests/test_options.py,1,1526373999
+Deepyaman Datta,src/click/parser.py,2,1623004003
+Denis Carriere,tests/test_basic.py,1,1458178710
+Diaga,src/click/testing.py,1,1606130712
+Diaga,tests/test_testing.py,1,1606130712
+DineshBunny-1,docs/parameters.md,1,1779985072
+Doug Harris,README.md,1,1526310083
+Doug Harris,tests/test_options.py,1,1526328765
+Ed Rogers,src/click/core.py,1,1730643118
+Ed Rogers,tests/test_arguments.py,1,1730643118
+Ed Rogers,tests/test_options.py,1,1730643118
+Eddie Girling,CHANGES.md,2,1787804132
+Eddie Girling,docs/handling-files.md,2,1784316075
+Eddie Girling,docs/utils.md,1,1784242206
+Eddie Girling,pyproject.toml,1,1787804132
+Eddie Girling,src/click/__init__.py,2,1784316075
+Eddie Girling,src/click/_termui_impl.py,1,1784242206
+Eddie Girling,src/click/core.py,2,1784242206
+Eddie Girling,src/click/exceptions.py,1,1753178648
+Eddie Girling,src/click/shell_completion.py,1,1753178648
+Eddie Girling,src/click/termui.py,1,1784242206
+Eddie Girling,src/click/testing.py,1,1753178648
+Eddie Girling,src/click/types.py,1,1784242206
+Eddie Girling,src/click/utils.py,2,1784316075
+Eddie Girling,tests/test_basic.py,1,1788657738
+Eddie Girling,tests/test_deprecations.py,1,1784316075
+Eddie Girling,tests/test_exceptions/__init__.py,1,1788657738
+Eddie Girling,tests/test_exceptions/test_FileError.py,1,1788657738
+Eddie Girling,tests/test_options.py,1,1753178648
+Eddie Girling,tests/test_shell_completion.py,1,1753178648
+Eddie Girling,tests/test_testing.py,3,1784316075
+Eddie Girling,tests/test_types/__init__.py,1,1788657738
+Eddie Girling,tests/test_types/test_Choice.py,1,1788657738
+Eddie Girling,tests/test_types/test_File.py,1,1788657738
+Eddie Girling,tests/test_types/test_FloatRange.py,1,1788657738
+Eddie Girling,tests/test_types/test_FuncParamType.py,1,1788657738
+Eddie Girling,tests/test_types/test_IntRange.py,1,1788657738
+Eddie Girling,tests/test_types/test_ParamType.py,1,1788657738
+Eddie Girling,tests/test_types/test_Path.py,1,1788657738
+Eddie Girling,tests/test_types/test_convert_type.py,1,1788657738
+Eddie Girling,tests/test_utils/test_KeepOpenFile.py,1,1784242206
+Eddie Girling,tests/test_utils/test_LazyFile.py,1,1784242206
+Eddie Girling,tests/test_utils/test_make_default_short_help.py,1,1784242206
+Edward G,.github/workflows/lock.yaml,1,1773553777
+Edward G,.github/workflows/pre-commit.yaml,2,1773553777
+Edward G,.github/workflows/publish.yaml,2,1775196487
+Edward G,.github/workflows/tests.yaml,2,1773553777
+Edward G,.pre-commit-config.yaml,4,1773553826
+Edward G,.readthedocs.yaml,3,1748334970
+Edward G,CHANGES.md,4,1787373085
+Edward G,docs/changes.md,2,1780725617
+Edward G,docs/command-line-reference.md,2,1760850784
+Edward G,docs/conf.py,2,1746966709
+Edward G,docs/faqs.md,1,1747641186
+Edward G,docs/options.md,4,1759728872
+Edward G,docs/parameters.md,2,1748502082
+Edward G,docs/testing.md,2,1740902749
+Edward G,docs/upgrade-guides.md,1,1763966129
+Edward G,pyproject.toml,11,1787373085
+Edward G,src/click/core.py,2,1753179602
+Edward G,src/click/decorators.py,3,1730765097
+Edward G,src/click/exceptions.py,4,1753179602
+Edward G,src/click/shell_completion.py,1,1753179602
+Edward G,src/click/testing.py,1,1753179602
+Edward G,src/click/types.py,1,1731483404
+Edward G,tests/test_options.py,1,1753179602
+Edward G,tests/test_shell_completion.py,1,1753179602
+Edward G,tests/test_testing.py,1,1753179602
+Edward G,tests/test_utils/__init__.py,1,1783489963
+Edward G,tests/test_utils/test_KeepOpenFile.py,1,1783489963
+Edward G,tests/test_utils/test_LazyFile.py,1,1783489963
+Edward G,tests/test_utils/test__detect_program_name.py,1,1783489963
+Edward G,tests/test_utils/test__expand_args.py,1,1783489963
+Edward G,tests/test_utils/test_confirm.py,1,1783489963
+Edward G,tests/test_utils/test_echo.py,1,1783489963
+Edward G,tests/test_utils/test_echo_via_pager.py,1,1783489963
+Edward G,tests/test_utils/test_format_filename.py,1,1783489963
+Edward G,tests/test_utils/test_make_default_short_help.py,1,1783489963
+Edward G,tests/test_utils/test_open_file.py,1,1783489963
+Edward G,tests/test_utils/test_prompt.py,1,1783489963
+Edward G,tests/test_utils/test_sentinel.py,1,1783489963
+Edward G,tests/test_utils/test_style.py,1,1783489963
+Edward Girling,.github/workflows/tests.yaml,2,1760992259
+Edward Girling,.pre-commit-config.yaml,1,1760988721
+Edward Girling,docs/changes.md,1,1779061088
+Edward Girling,docs/command-line-reference.md,2,1761178709
+Edward Girling,docs/design-opinions.md,2,1761539017
+Edward Girling,docs/index.md,1,1779061088
+Edward Girling,pyproject.toml,5,1779049098
+Eric L Frederich,tests/test_options.py,2,1495457982
+Eric Platon,src/click/_termui_impl.py,1,1778215328
+Eric Platon,src/click/_winconsole.py,1,1778215328
+Eric Platon,src/click/core.py,1,1778215328
+Eric Platon,src/click/decorators.py,1,1778215328
+Eric Platon,src/click/formatting.py,1,1778215328
+Eric Platon,src/click/parser.py,1,1778215328
+Eric Platon,src/click/termui.py,1,1778215328
+Eric Platon,src/click/types.py,1,1778215328
+Eric Platon,src/click/utils.py,1,1778215328
+Eric Williamson,src/click/core.py,1,1671133513
+Eric Williamson,tests/test_command_decorators.py,1,1671133513
+Fabio Menegazzo,tests/test_testing.py,1,1475085476
+Felix Nordén,src/click/types.py,1,1602929830
+Felix Nordén,tests/test_shell_completion.py,1,1602929830
+Firelight Flagboy,src/click/exceptions.py,1,1751535579
+Fletcher Davis,tests/test_commands.py,1,1526392080
+FooBarQuaxx,tests/test_commands.py,1,1478518341
+Frank Hoffmann,tests/test_options.py,1,1429177932
+Frazer McLean,src/click/_compat.py,1,1681047160
+Frazer McLean,src/click/exceptions.py,1,1681047160
+Frazer McLean,src/click/types.py,1,1681047160
+Frazer McLean,src/click/utils.py,1,1681047160
+Frazer McLean,tests/conftest.py,1,1681047160
+Fredrik Mellström,src/click/utils.py,1,1659455318
+Gene Wood,src/click/termui.py,3,1758823879
+George Y. Kussumoto,tests/test_termui.py,1,1507689847
+Gianluca Gippetto,src/click/core.py,4,1625409066
+Gianluca Gippetto,src/click/decorators.py,3,1688426502
+Gianluca Gippetto,src/click/formatting.py,1,1620400739
+Gianluca Gippetto,src/click/utils.py,1,1618414001
+Gianluca Gippetto,tests/test_arguments.py,1,1655588120
+Gianluca Gippetto,tests/test_formatting.py,1,1620400739
+Gianluca Gippetto,tests/test_options.py,2,1624033860
+Giel van Schijndel,tests/test_arguments.py,1,1583141018
+Giovanni Pizzi,src/click/_termui_impl.py,1,1529480070
+Giovanni Pizzi,tests/test_termui.py,1,1529480070
+Gregory Pakosz,tests/test_options.py,1,1553157346
+Grey Li,docs/conf.py,1,1631438005
+Hans Lehnert,src/click/shell_completion.py,1,1754747026
+Hans Lehnert,tests/test_shell_completion.py,1,1754747026
+Henry Schreiner,src/click/core.py,1,1648609372
+Henry Schreiner,src/click/decorators.py,1,1648609372
+Hynek Schlawack,src/click/types.py,1,1663160940
+Hólmar Sigmundsson,examples/complex/complex/commands/cmd_status.py,1,1400745355
+Iain-S,src/click/utils.py,1,1779355588
+IamCathal,src/click/core.py,2,1594050471
+IamCathal,tests/test_chain.py,1,1594050471
+IamCathal,tests/test_options.py,1,1592234584
+Israel Teneda,tests/test_commands.py,1,1645286184
+Ivan Kapelyukhin,src/click/core.py,1,1626205779
+Ivan Kapelyukhin,tests/test_options.py,1,1626205779
+Iwan Aucamp,.github/workflows/tests.yaml,1,1612136594
+Iwan Aucamp,src/click/_compat.py,1,1612136594
+Iwan Aucamp,src/click/_winconsole.py,1,1612136594
+Iwan Aucamp,src/click/core.py,1,1612136594
+Iwan Aucamp,src/click/formatting.py,1,1612136594
+Iwan Aucamp,src/click/shell_completion.py,1,1612136594
+Iwan Aucamp,src/click/termui.py,1,1612136594
+Iwan Aucamp,src/click/types.py,1,1612136594
+Iwan Aucamp,tests/test_imports.py,1,1612136594
+Jad El Kik,src/click/types.py,1,1635187309
+James Daley,tests/test_arguments.py,1,1557169236
+James Daley,tests/test_options.py,1,1557169236
+Jan Christoph Bischko,examples/colors/colors.py,1,1526379936
+Jan Christoph Bischko,examples/validation/validation.py,1,1526379936
+Jan Christoph Bischko,tests/test_arguments.py,1,1526379936
+Jan Christoph Bischko,tests/test_basic.py,1,1526379936
+Jan Christoph Bischko,tests/test_commands.py,1,1526379936
+Jan Christoph Bischko,tests/test_compat.py,1,1526379936
+Jan Christoph Bischko,tests/test_formatting.py,1,1526379936
+Jan Christoph Bischko,tests/test_imports.py,1,1526379936
+Jan Christoph Bischko,tests/test_options.py,1,1526379936
+Jan Christoph Bischko,tests/test_termui.py,2,1526380995
+Jan Christoph Bischko,tests/test_testing.py,1,1526379936
+Jan Kowalleck,src/click/core.py,1,1596865041
+Jan Kowalleck,tests/test_shell_completion.py,1,1596865041
+Jan Losinski,src/click/shell_completion.py,1,1622557550
+Jaron Rosenau,docs/arguments.md,2,1773562037
+Jaron Rosenau,docs/click-concepts.md,2,1773274408
+Jaron Rosenau,docs/commands-and-groups.md,2,1773269827
+Jaron Rosenau,docs/commands.md,2,1772595442
+Jaron Rosenau,docs/option-decorators.md,1,1758056684
+Jaron Rosenau,docs/quickstart.md,1,1754370363
+Jaron Rosenau,docs/unicode-support.md,1,1750182954
+Jaron Rosenau,docs/utils.md,1,1750183283
+Jasper Spaans,src/click/termui.py,1,1630922433
+Javier Domingo Cansino,src/click/_winconsole.py,1,1596936595
+Javier Domingo Cansino,src/click/core.py,2,1596936655
+Javier Domingo Cansino,src/click/exceptions.py,1,1596936595
+Javier Domingo Cansino,src/click/types.py,1,1596936595
+Javier Domingo Cansino,tests/test_commands.py,1,1596936595
+Jay Crotts,src/click/_termui_impl.py,2,1628825359
+Jay Crotts,tests/test_options.py,1,1557253272
+Jazzcort,src/click/_compat.py,1,1779133562
+Jean-Louis Fuchs,src/click/_termui_impl.py,1,1748207770
+Jethro Cao,src/click/testing.py,1,1583906288
+Jethro Cao,tests/test_testing.py,1,1583906288
+Jimmy Zeng,tests/test_basic.py,2,1557158288
+Jimmy Zeng,tests/test_options.py,1,1557168369
+Joachim Jablon,src/click/core.py,1,1589064806
+Joachim Jablon,tests/test_options.py,1,1589064806
+Joe Jevnik,tests/test_context.py,2,1457553584
+Joe Jevnik,tests/test_testing.py,1,1457553584
+Joel Eager,src/click/_termui_impl.py,1,1562983688
+Joel Eager,src/click/termui.py,1,1562983688
+Joel Eager,tests/test_termui.py,1,1562983688
+John Aziz,docs/standalone-apps.md,1,1775431228
+John Reese,src/click/core.py,1,1649188639
+John Reese,tests/test_options.py,1,1649188639
+John T. Wodder II,src/click/_termui_impl.py,1,1732994592
+John T. Wodder II,src/click/types.py,1,1595021701
+John T. Wodder II,tests/test_basic.py,1,1595021701
+John T. Wodder II,tests/test_imports.py,2,1732994592
+Jon Dufresne,src/click/_compat.py,1,1608678066
+Jon Dufresne,src/click/_termui_impl.py,1,1608678066
+Jon Dufresne,src/click/formatting.py,1,1608678066
+Jon Dufresne,src/click/termui.py,1,1608678066
+Jon Dufresne,tests/test_imports.py,1,1522519892
+Jon Dufresne,tests/test_options.py,1,1522519876
+Jonas Tingeborn,tests/test_termui.py,1,1482435848
+Jonxslays,src/click/decorators.py,1,1650629211
+Jonxslays,src/click/termui.py,1,1642341250
+Joongi Kim,src/click/core.py,1,1590745216
+Joongi Kim,tests/test_context.py,1,1590745216
+Josh Cannon,src/click/core.py,1,1775726948
+Josh Cannon,src/click/termui.py,1,1775726948
+Josh Cannon,tests/test_options.py,1,1775726948
+Josh Cannon,tests/test_termui.py,1,1775726948
+Joshua Storck,tests/test_context.py,4,1559573430
+JosiahDub,tests/test_formatting.py,1,1526391563
+Julian Berman,tests/test_testing.py,1,1545830755
+KP,tests/test_options.py,1,1557161842
+KP,tests/test_testing.py,1,1526334765
+Kai Chen,.github/ISSUE_TEMPLATE/bug-report.md,1,1596781609
+Kai Chen,.github/ISSUE_TEMPLATE/feature-request.md,1,1596781609
+Kai Chen,.github/pull_request_template.md,1,1596781609
+Kai Chen,src/click/shell_completion.py,1,1596581665
+Kai Chen,tests/test_compat.py,1,1596581665
+Kai Chen,tests/test_shell_completion.py,1,1596581665
+Kaleb R. Horvath,README.md,1,1524451894
+Karthikeyan Singaravelan,.github/workflows/tests.yaml,1,1602308695
+Karthikeyan Singaravelan,tests/test_basic.py,1,1576759265
+Keerthana Panyam,src/click/types.py,1,1779137978
+Keerthana Panyam,tests/test_shell_completion.py,1,1779137978
+Kevin Deldycke,.github/workflows/lock.yaml,1,1784804220
+Kevin Deldycke,.github/workflows/nightly.yaml,4,1786776554
+Kevin Deldycke,.github/workflows/pre-commit.yaml,2,1784804220
+Kevin Deldycke,.github/workflows/publish.yaml,1,1784804220
+Kevin Deldycke,.github/workflows/tests.yaml,3,1784804220
+Kevin Deldycke,.github/workflows/zizmor.yaml,1,1784804220
+Kevin Deldycke,.gitignore,1,1777529734
+Kevin Deldycke,.pre-commit-config.yaml,1,1772282275
+Kevin Deldycke,CHANGES.md,34,1790059190
+Kevin Deldycke,docs/advanced.md,2,1779459089
+Kevin Deldycke,docs/api.md,2,1780046796
+Kevin Deldycke,docs/arguments.md,4,1788945440
+Kevin Deldycke,docs/commands-and-groups.md,2,1776154935
+Kevin Deldycke,docs/commands.md,2,1776783505
+Kevin Deldycke,docs/complex.md,1,1788333916
+Kevin Deldycke,docs/conf.py,3,1779438467
+Kevin Deldycke,docs/contrib.md,1,1788257307
+Kevin Deldycke,docs/contributing.md,3,1786776554
+Kevin Deldycke,docs/documentation.md,4,1788945440
+Kevin Deldycke,docs/exceptions.md,2,1788333916
+Kevin Deldycke,docs/faqs.md,5,1788257307
+Kevin Deldycke,docs/index.md,2,1779438467
+Kevin Deldycke,docs/option-decorators.md,1,1784280801
+Kevin Deldycke,docs/options.md,10,1779349398
+Kevin Deldycke,docs/parameter-types.md,2,1787840753
+Kevin Deldycke,docs/parameters.md,1,1788359012
+Kevin Deldycke,docs/shell-completion.md,3,1788204282
+Kevin Deldycke,docs/support-multiple-versions.md,1,1777300622
+Kevin Deldycke,docs/testing.md,6,1784323957
+Kevin Deldycke,docs/upgrade-guides.md,7,1789132707
+Kevin Deldycke,docs/utils.md,4,1788333916
+Kevin Deldycke,examples/validation/validation.py,1,1777300622
+Kevin Deldycke,pyproject.toml,6,1790059190
+Kevin Deldycke,src/click/__init__.py,4,1780046796
+Kevin Deldycke,src/click/_compat.py,4,1784280801
+Kevin Deldycke,src/click/_termui_impl.py,14,1787119749
+Kevin Deldycke,src/click/_textwrap.py,1,1778598035
+Kevin Deldycke,src/click/_utils.py,3,1787952497
+Kevin Deldycke,src/click/_winconsole.py,1,1788166056
+Kevin Deldycke,src/click/core.py,66,1789132707
+Kevin Deldycke,src/click/decorators.py,4,1781157579
+Kevin Deldycke,src/click/exceptions.py,2,1779349398
+Kevin Deldycke,src/click/formatting.py,3,1779349398
+Kevin Deldycke,src/click/parser.py,2,1756018939
+Kevin Deldycke,src/click/shell_completion.py,4,1784280801
+Kevin Deldycke,src/click/termui.py,13,1787119749
+Kevin Deldycke,src/click/testing.py,8,1784323957
+Kevin Deldycke,src/click/types.py,9,1788863620
+Kevin Deldycke,src/click/utils.py,6,1789107752
+Kevin Deldycke,tests/test_abort_interrupt.py,1,1788184163
+Kevin Deldycke,tests/test_arguments.py,14,1789132707
+Kevin Deldycke,tests/test_basic.py,14,1784323957
+Kevin Deldycke,tests/test_commands.py,5,1785495721
+Kevin Deldycke,tests/test_compat.py,2,1782877598
+Kevin Deldycke,tests/test_context.py,2,1762847889
+Kevin Deldycke,tests/test_defaults.py,7,1787840753
+Kevin Deldycke,tests/test_deprecations.py,6,1789132707
+Kevin Deldycke,tests/test_formatting.py,4,1782877598
+Kevin Deldycke,tests/test_imports.py,2,1784181477
+Kevin Deldycke,tests/test_info_dict.py,2,1789030492
+Kevin Deldycke,tests/test_options.py,37,1789132707
+Kevin Deldycke,tests/test_shell_completion.py,4,1784323957
+Kevin Deldycke,tests/test_stream_lifecycle.py,2,1779441192
+Kevin Deldycke,tests/test_termui.py,21,1787119749
+Kevin Deldycke,tests/test_testing.py,7,1784323957
+Kevin Deldycke,tests/test_types/test_Path.py,1,1788863620
+Kevin Deldycke,tests/test_utils/test_echo.py,1,1783507094
+Kevin Deldycke,tests/test_utils/test_echo_via_pager.py,1,1779460559
+Kevin Deldycke,tests/test_utils/test_make_default_short_help.py,1,1789107752
+Kevin Deldycke,tests/test_utils/test_open_file.py,3,1784323957
+Kevin Deldycke,tests/test_utils/test_prompt.py,1,1784181477
+Kevin Deldycke,tests/test_utils/test_sentinel.py,1,1787952497
+Kevin Deldycke,tests/test_utils/test_style.py,2,1783509637
+Kevin Deldycke,tests/typing/typing_aliased_group.py,1,1742988283
+Kevin Deldycke,tests/typing/typing_confirmation_option.py,1,1742988283
+Kevin Deldycke,tests/typing/typing_edit.py,1,1787119749
+Kevin Deldycke,tests/typing/typing_options.py,1,1742988283
+Kevin Deldycke,tests/typing/typing_path.py,1,1788863620
+Kevin Deldycke,tests/typing/typing_prompt.py,1,1784181477
+Kevin Deldycke,tests/typing/typing_version_option.py,1,1742988283
+Kevin Yap,examples/README,1,1402800656
+Kevin Yap,examples/aliases/README,1,1402800656
+Kevin Yap,examples/complex/README,1,1402800656
+Kevin Yap,examples/inout/inout.py,1,1401604490
+Kevin Yap,examples/termui/README,1,1402800656
+Kobi Hikri,pyproject.toml,1,1783875316
+KotlinIsland,src/click/core.py,1,1730636464
+KotlinIsland,tests/test_options.py,1,1730636464
+Krisztián Löki,src/click/utils.py,1,1729950212
+Krzysztof Kotlenga,src/click/core.py,3,1664971225
+Krzysztof Kotlenga,tests/test_commands.py,1,1664971225
+Krzysztof Kotlenga,tests/test_formatting.py,1,1664971225
+Krzysztof Kotlenga,tests/test_options.py,1,1634030834
+Kurt McKee,src/click/core.py,1,1679350754
+Kyle Altendorf,src/click/core.py,1,1683558213
+Kyle Altendorf,src/click/shell_completion.py,1,1683558213
+Kyle Altendorf,tests/test_normalization.py,1,1557603504
+Kyle Altendorf,tests/test_options.py,1,1557603504
+Leo Singer,src/click/core.py,1,1734899157
+Leo Singer,tests/test_info_dict.py,1,1734899157
+Liu Xiteng,src/click/shell_completion.py,1,1677809032
+LokiHokie,tests/test_formatting.py,1,1526326226
+MIS-Alex,src/click/_termui_impl.py,1,1610640000
+Marc Schmitzer,src/click/parser.py,1,1621327379
+Marc Schmitzer,tests/test_arguments.py,1,1621327379
+Marcel Telka,tests/test_termui.py,1,1761585502
+Marco Ricci,src/click/shell_completion.py,1,1753126504
+Marco Ricci,tests/test_shell_completion.py,1,1753126504
+Mark Jansen,docs/documentation.md,1,1753202119
+Mark Thomas,tests/test_formatting.py,2,1434223897
+Markus Unterwaditzer,.gitignore,1,1402752638
+Markus Unterwaditzer,tests/test_arguments.py,1,1459788021
+Markus Unterwaditzer,tests/test_options.py,1,1401969746
+Markus Unterwaditzer,tests/test_termui.py,1,1478283276
+Markus Unterwaditzer,tests/test_testing.py,2,1411247323
+Martijn Pieters,src/click/_compat.py,2,1668013429
+Martijn Pieters,src/click/_termui_impl.py,2,1668013429
+Martijn Pieters,src/click/core.py,3,1668013799
+Martijn Pieters,src/click/decorators.py,2,1668013799
+Martijn Pieters,src/click/exceptions.py,1,1667936669
+Martijn Pieters,src/click/testing.py,1,1667936669
+Martijn Pieters,src/click/types.py,2,1668013429
+Martijn Pieters,src/click/utils.py,3,1668013799
+Matt Haggard,tests/test_options.py,1,1483549942
+Matt Robenolt,tests/test_basic.py,1,1452032637
+Matthew Martin,src/click/types.py,1,1641439003
+Matthew Martin,tests/test_info_dict.py,1,1641439003
+Matthias Urlichs,src/click/core.py,1,1545411260
+Matthias Urlichs,tests/test_context.py,1,1545411260
+Michele Bianchi,src/click/core.py,1,1757569777
+Michele Bianchi,tests/test_context.py,2,1757651144
+Ming Zhang,examples/complex/complex/cli.py,1,1559315044
+Ming Zhang,examples/complex/complex/commands/cmd_init.py,1,1559315044
+Ming Zhang,examples/complex/complex/commands/cmd_status.py,1,1559315044
+Mwiza Simbeye,src/click/core.py,1,1592484288
+Mwiza Simbeye,src/click/decorators.py,1,1591828414
+Mwiza Simbeye,tests/test_options.py,1,1592484288
+Narbonne,examples/inout/inout.py,1,1399447108
+Narendra N,src/click/parser.py,1,1579264332
+Narendra N,tests/test_options.py,1,1579264332
+Nicholas Wiles,tests/test_compat.py,1,1507821528
+Nick Cross,tests/test_compat.py,2,1562185285
+Nick Muoh,src/click/core.py,1,1651603258
+Nicky Sielicki,src/click/types.py,1,1623965220
+Nicolas F,src/click/_termui_impl.py,1,1539178684
+Nicolas F,src/click/termui.py,1,1539178684
+Nicolas F,tests/test_termui.py,1,1539178684
+Nicolas Simonds,src/click/types.py,1,1554230902
+Nicolas Simonds,tests/test_basic.py,1,1554230902
+Nils Hjelte,src/click/shell_completion.py,1,1731189432
+Ofek Lev,src/click/_termui_impl.py,1,1753986344
+Ofek Lev,src/click/core.py,1,1623420953
+Ofek Lev,src/click/formatting.py,1,1753985693
+Ofek Lev,src/click/testing.py,1,1753986553
+Ofek Lev,tests/test_imports.py,1,1753993658
+Oleksandr Shulgin,tests/test_commands.py,1,1446219406
+Olivia Kinnear,src/click/shell_completion.py,1,1690668842
+Omer Katz,src/click/core.py,1,1624893627
+Oscar Bonilla,tests/test_imports.py,1,1470246819
+Pamela Fox,docs/quickstart.md,1,1779127936
+Panagiotis Ktistakis,examples/colors/colors.py,1,1497349884
+Patrick,.github/workflows/tests.yaml,1,1604605551
+Patrick Hayes,src/click/core.py,1,1730589115
+Patrick Hayes,tests/test_termui.py,1,1730589115
+Patrick Lannigan,src/click/core.py,1,1749316775
+Patrick Lannigan,tests/test_options.py,1,1749316775
+Patrick Mézard,tests/test_testing.py,1,1472483204
+Patryk Bęza,src/click/core.py,1,1624369670
+Patryk Bęza,tests/test_options.py,1,1624369670
+Paul Spangler,src/click/core.py,1,1628533659
+Paul Spangler,src/click/shell_completion.py,1,1628533659
+Paul Spangler,tests/test_commands.py,1,1628533659
+Paul Spangler,tests/test_context.py,1,1628533659
+Paul Spangler,tests/test_parser.py,1,1628533659
+Paul Spangler,tests/test_shell_completion.py,1,1628533659
+Peacock,src/click/core.py,1,1732840291
+Peacock,tests/test_arguments.py,1,1732840291
+Peacock,tests/test_commands.py,1,1732840291
+Peacock,tests/test_options.py,1,1732840291
+Peter A. Jonsson,pyproject.toml,1,1763025683
+Peter A. Jonsson,src/click/testing.py,1,1762987013
+Peter Dragun,src/click/shell_completion.py,1,1689750363
+Peter Kelley,.gitignore,1,1471653905
+Peter Landoll,tests/test_formatting.py,1,1532793564
+Pietro Albini,tests/test_context.py,1,1439802698
+RC2215,src/click/__init__.py,1,1777506794
+RC2215,src/click/core.py,1,1777506794
+RC2215,src/click/exceptions.py,1,1777506794
+RC2215,src/click/parser.py,1,1777506794
+RC2215,tests/test_commands.py,1,1777506794
+RC2215,tests/test_options.py,1,1777506794
+Rafael G. Martins,.gitignore,1,1402190454
+ReneS,.gitignore,1,1777505851
+ReneS,src/click/shell_completion.py,1,1777505851
+ReneS,tests/test_shell_completion.py,1,1777505851
+Ricardo Bánffy,src/click/termui.py,1,1616535062
+Riccardo Belli,src/click/termui.py,1,1652428162
+Robert Grant,tests/test_arguments.py,3,1526420041
+Robert Pooley,tests/test_formatting.py,1,1470856501
+Roger Baker,docs/wincmd.md,1,1779128123
+Roland Walker,src/click/_termui_impl.py,1,1756986820
+Ronny Pfannschmidt,tests/test_compat.py,1,1545289848
+Ronny Pfannschmidt,tests/test_termui.py,2,1450036798
+Rotem Yaari,tests/test_options.py,1,1402730095
+Rovanion Luckey,tests/test_termui.py,1,1465817096
+Ryan Siemens,tests/test_formatting.py,2,1460694763
+RyanSquared,docs/documentation.md,1,1765320460
+Régis Behmo,src/click/core.py,1,1683474735
+Rémy Greinhofer,.gitignore,1,1508013195
+Rémy Greinhofer,tests/test_commands.py,1,1508013195
+STEPHEN OTIENO ONYANGO,src/click/types.py,1,1778248067
+SWu,tests/test_basic.py,1,1524018762
+Sagi Buchbinder-Shadur,tests/test_arguments.py,1,1683127019
+Saif Kazi,src/click/core.py,1,1614955250
+Saif Kazi,tests/test_options.py,1,1614955250
+Saif807380,src/click/core.py,4,1617971468
+Saif807380,src/click/decorators.py,1,1617277297
+Saif807380,src/click/exceptions.py,1,1617277297
+Saif807380,src/click/termui.py,3,1617722479
+Saif807380,src/click/testing.py,1,1614277014
+Saif807380,src/click/utils.py,1,1614589596
+Saif807380,tests/test_arguments.py,1,1613481285
+Saif807380,tests/test_commands.py,1,1617971468
+Saif807380,tests/test_formatting.py,1,1614589596
+Saif807380,tests/test_imports.py,1,1617277297
+Saif807380,tests/test_options.py,1,1613481285
+Saif807380,tests/test_termui.py,1,1613668819
+Saipraneeth,src/click/shell_completion.py,1,1733210834
+Saipraneeth,tests/test_shell_completion.py,1,1733296457
+Sam Schott,src/click/parser.py,1,1605001292
+Sam Schott,src/click/shell_completion.py,1,1621799754
+Sam Schott,tests/test_parser.py,1,1605001292
+Sam Schott,tests/test_shell_completion.py,1,1621799754
+Santiago Basulto,tests/test_basic.py,1,1441764686
+Santiago Basulto,tests/test_imports.py,1,1441764686
+Seb Aebischer,src/click/testing.py,1,1615049246
+Seb Aebischer,tests/test_testing.py,1,1615049246
+Segev Finer,src/click/termui.py,1,1539535091
+Segev Finer,tests/test_termui.py,1,1539535091
+Shakil Rafi,src/click/_termui_impl.py,1,1604197999
+Shakil Rafi,src/click/termui.py,1,1604197999
+Shakil Rafi,src/click/utils.py,1,1603409294
+Shakil Rafi,tests/test_basic.py,1,1603409294
+Shakil Rafi,tests/test_termui.py,1,1604197999
+Shantanu,src/click/shell_completion.py,1,1691486439
+Shayegan Hooshyari,tests/test_chain.py,1,1619434205
+Sigurd Spieckermann,pyproject.toml,1,1758288269
+Simon Gerber,src/click/shell_completion.py,1,1747048691
+Simon Gerber,tests/test_shell_completion.py,1,1747048691
+Simon Jagoe,tests/test_formatting.py,3,1428001701
+Sitiyou,src/click/shell_completion.py,2,1779519916
+Sitiyou,tests/test_shell_completion.py,2,1779519916
+Stefanie Molin,src/click/core.py,1,1716220648
+Stefanie Molin,tests/test_options.py,1,1716220648
+Steffen Neubauer,src/click/_termui_impl.py,1,1731111778
+Stephen Finucane,src/click/core.py,1,1638983367
+Stephen Finucane,tests/test_commands.py,1,1638983367
+Stephen Rosen,src/click/core.py,4,1763586371
+Stephen Rosen,src/click/testing.py,1,1747757681
+Stephen Rosen,tests/test_arguments.py,2,1758823330
+Stephen Rosen,tests/test_basic.py,1,1535408172
+Stephen Rosen,tests/test_commands.py,1,1541829637
+Stephen Rosen,tests/test_context.py,2,1535319683
+Stephen Rosen,tests/test_defaults.py,1,1758549358
+Stephen Rosen,tests/test_formatting.py,1,1483140421
+Stephen Rosen,tests/test_options.py,4,1763586371
+Stephen Rosen,tests/test_termui.py,1,1541528636
+Stephen Rosen,tests/test_testing.py,1,1747757681
+Steve Graham,src/click/termui.py,1,1585592484
+Sylvain Joubert,src/click/core.py,1,1778841682
+Sławek Ehlert,tests/test_options.py,2,1422541005
+Taylor Payne,src/click/types.py,1,1716246810
+Tim Gates,examples/aliases/aliases.py,2,1566768750
+Tin Tvrtković,src/click/decorators.py,1,1689260173
+Tin Tvrtković,tests/typing/typing_aliased_group.py,1,1689260173
+Tin Tvrtković,tests/typing/typing_confirmation_option.py,1,1689260173
+Tin Tvrtković,tests/typing/typing_help_option.py,1,1689260173
+Tin Tvrtković,tests/typing/typing_options.py,1,1689260173
+Tin Tvrtković,tests/typing/typing_password_option.py,1,1689260173
+Tin Tvrtković,tests/typing/typing_simple_example.py,1,1689260173
+Tin Tvrtković,tests/typing/typing_version_option.py,1,1689260173
+Tom Dalton,src/click/testing.py,1,1557326916
+Tom Dalton,tests/test_testing.py,1,1557326916
+Torf,tests/test_testing.py,1,1434736584
+Ulrich Petri,tests/test_options.py,1,1416241485
+Veritia,docs/advanced.md,2,1758016862
+Veritia,docs/api.md,2,1758997262
+Veritia,docs/contrib.md,2,1750505022
+Veritia,docs/documentation.md,2,1750673411
+Vincent Philippon,src/click/decorators.py,1,1620847899
+Vizonex,src/click/shell_completion.py,2,1782185759
+WANG WENPEI,examples/validation/validation.py,1,1517480146
+Yash Rathi,src/click/_termui_impl.py,1,1731019379
+Yash Rathi,src/click/termui.py,1,1731019379
+Yash Rathi,tests/test_termui.py,1,1731019379
+Yevgen Antymyrov,tests/test_formatting.py,1,1549907599
+Yorick,src/click/termui.py,1,1777504822
+Young proger,.gitignore,1,1622231642
+Young proger,examples/README,2,1622823690
+Yourun-Proger,src/click/termui.py,1,1631378847
+Yourun-Proger,src/click/utils.py,1,1644244969
+Yuri Shevtsov,docs/arguments.md,1,1779155280
+Yuri Shevtsov,docs/documentation.md,1,1779155280
+Yuri Shevtsov,src/click/core.py,2,1779234206
+Yuri Shevtsov,tests/test_arguments.py,1,1779155280
+Yuri Shevtsov,tests/test_defaults.py,1,1779234206
+Yuri Shevtsov,tests/test_info_dict.py,1,1779155280
+Yuri Shevtsov,tests/test_options.py,1,1779234206
+Zhihua Lai,CHANGES.md,1,1782469924
+Zhihua Lai,docs/shell-completion.md,1,1782469924
+Zhihua Lai,src/click/shell_completion.py,2,1782470216
+Zhihua Lai,tests/test_shell_completion.py,1,1782469924
+akettmann-e24,src/click/utils.py,1,1683685735
+antazoey,src/click/types.py,1,1730645642
+axu2,tests/test_basic.py,1,1503600543
+bdista,tests/test_arguments.py,1,1619822927
+bhuffman-usgs,.gitignore,1,1730639525
+bhuffman-usgs,src/click/_termui_impl.py,1,1730639525
+bhuffman-usgs,src/click/termui.py,1,1730639525
+bhuffman-usgs,tests/test_termui.py,1,1730639525
+cAtaman,src/click/core.py,1,1625727111
+cAtaman,src/click/decorators.py,1,1626360043
+cAtaman,src/click/types.py,4,1628795757
+cAtaman,tests/conftest.py,1,1626318949
+cAtaman,tests/test_formatting.py,1,1625727111
+cAtaman,tests/test_options.py,1,1625727111
+chips-wq,src/click/core.py,1,1730644846
+chips-wq,tests/test_arguments.py,1,1730644846
+chusband,examples/aliases/aliases.py,1,1559319393
+danwusbu,src/click/utils.py,1,1716228416
+denuoweb,docs/complex.md,4,1766207198
+denuoweb,docs/entry-points.md,2,1763034924
+denuoweb,docs/exceptions.md,2,1763033419
+denuoweb,docs/extending-click.md,2,1760312804
+denuoweb,docs/handling-files.md,2,1758922993
+denuoweb,docs/license.md,2,1758922057
+denuoweb,docs/option-decorators.md,2,1757978965
+denuoweb,docs/parameter-types.md,3,1755333035
+denuoweb,docs/prompts.md,3,1754801186
+denuoweb,docs/quickstart.md,3,1754172508
+denuoweb,docs/setuptools.md,2,1751003144
+denuoweb,docs/shell-completion.md,2,1751003144
+denuoweb,docs/unicode-support.md,4,1749056591
+denuoweb,docs/utils.md,5,1754171807
+denuoweb,docs/virtualenv.md,2,1748422490
+denuoweb,docs/why.md,2,1748246439
+denuoweb,docs/wincmd.md,3,1748675264
+doiken,src/click/termui.py,1,1773160101
+doiken,tests/test_termui.py,1,1773160101
+dzcode,src/click/_compat.py,1,1651522189
+dzcode,src/click/_termui_impl.py,1,1651522189
+dzcode,src/click/core.py,1,1651522189
+dzcode,src/click/exceptions.py,2,1729955543
+dzcode,src/click/parser.py,1,1651522189
+dzcode,src/click/shell_completion.py,1,1651522189
+dzcode,src/click/testing.py,1,1651522189
+dzcode,src/click/types.py,1,1651522189
+dzcode,src/click/utils.py,1,1651522189
+dzcode,tests/test_testing.py,1,1729955543
+energizah,src/click/core.py,1,1570575793
+energizah,tests/test_basic.py,1,1570575793
+exploide,src/click/shell_completion.py,1,1662555412
+fdavis,src/click/core.py,1,1730663801
+fdavis,src/click/exceptions.py,1,1730663801
+fdavis,tests/test_commands.py,1,1730663801
+her0e1c1,tests/test_termui.py,1,1454465898
+hernanr2205,docs/options.md,1,1779400818
+icreatedanaccount,tests/test_termui.py,2,1557364525
+jab,src/click/_termui_impl.py,1,1585785055
+jaseg,src/click/core.py,1,1729957119
+jorenham,src/click/core.py,1,1779121786
+jorenham,src/click/exceptions.py,1,1779111699
+jorenham,src/click/formatting.py,1,1779112200
+jorenham,src/click/shell_completion.py,2,1779118658
+jorenham,src/click/testing.py,2,1779109437
+jorenham,src/click/types.py,2,1779107145
+jorenham,src/click/utils.py,1,1778616436
+jtrakk,src/click/core.py,1,1563048943
+jtrakk,tests/test_options.py,1,1563048943
+kbanc,src/click/core.py,1,1593112675
+kbanc,src/click/utils.py,1,1593112675
+kyu243,src/click/core.py,1,1747744546
+kyu243,src/click/testing.py,1,1747764575
+kyu243,tests/test_chain.py,1,1747764575
+kyu243,tests/test_options.py,1,1747744546
+kyu243,tests/test_termui.py,1,1747764575
+layday,src/click/decorators.py,1,1689262964
+layday,tests/typing/typing_group_kw_options.py,1,1689262964
+leshna balara,src/click/_compat.py,1,1614200131
+leshna balara,tests/test_compat.py,1,1614200131
+lmjohns3,src/click/termui.py,1,1574294614
+matejcik,src/click/decorators.py,1,1646990922
+mrmups,src/click/types.py,1,1730587503
+mrmups,tests/test_options.py,1,1730587503
+naglis,src/click/utils.py,1,1712560768
+ovezovs,src/click/core.py,2,1593549633
+ovezovs,tests/test_commands.py,1,1593459911
+ovezovs,tests/test_options.py,1,1593549633
+plumlariat,src/click/_termui_impl.py,1,1779208541
+rarnal,src/click/core.py,1,1589067090
+rarnal,tests/test_formatting.py,1,1589067090
+robintully,src/click/types.py,1,1557165596
+robintully,tests/test_basic.py,1,1557165596
+taran_lu,src/click/core.py,1,1628011129
+taran_lu,tests/test_shell_completion.py,1,1628011129
+timfeirg,.gitignore,1,1487777471
+trl75,src/click/testing.py,2,1716411363
+trl75,tests/test_testing.py,1,1716307234
+unparalleled-js,src/click/termui.py,1,1640306249
+unparalleled-js,tests/test_termui.py,1,1640306249
+yk396,src/click/core.py,1,1593798322
+yk396,src/click/types.py,1,1593798322
+yk396,tests/test_info_dict.py,1,1593798322
+yurihs,src/click/termui.py,1,1576337615
+Éloi Rivard,src/click/testing.py,1,1734627272
+Éloi Rivard,tests/test_testing.py,1,1734627272

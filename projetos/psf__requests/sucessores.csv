@@ -1,0 +1,4 @@
+autor,arquivos_criticos,sucessor_jaccard,jaccard,arquivos_em_comum,cobertura_criticos_pct,melhor_cobertura,melhor_cobertura_pct,sucessor_ativo
+Nate Prewitt,8,Kenneth Reitz,0.3402061855670103,33,0.0,Alex Chan,12.5,False
+Kenneth Reitz,2,Jon Dufresne,0.3584905660377358,19,0.0,Nate Prewitt,50.0,False
+Ian Cordasco,1,Colin Watson,0.24074074074074073,13,0.0,Nate Prewitt,100.0,True

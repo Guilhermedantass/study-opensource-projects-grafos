@@ -1,0 +1,21 @@
+autor,arquivos_criticos,sucessor_jaccard,jaccard,arquivos_em_comum,cobertura_criticos_pct,melhor_cobertura,melhor_cobertura_pct,sucessor_ativo
+Patrick Steinhardt,69,Ævar Arnfjörð Bjarmason,0.5098985997102848,1056,1.4492753623188406,Han-Wen Nienhuys,23.18840579710145,False
+Eric Sunshine,22,Jeff King,0.2532511978097194,370,100.0,Jeff King,100.0,True
+Junio C Hamano,11,Ævar Arnfjörð Bjarmason,0.4109211252068395,745,0.0,Taylor Blau,27.27272727272727,False
+Jiang Xin,6,Christian Couder,0.13953488372093023,48,0.0,Johannes Schindelin,83.33333333333334,True
+Jeff King,4,Patrick Steinhardt,0.41012216404886565,940,25.0,Patrick Steinhardt,25.0,True
+Taylor Blau,4,Derrick Stolee,0.25476603119584057,147,0.0,Patrick Steinhardt,50.0,True
+Derrick Stolee,3,Stefan Beller,0.2902033271719039,157,0.0,Elijah Newren,33.33333333333333,False
+Johannes Sixt,3,Jonathan Nieder,0.1962134251290878,114,0.0,Thomas Rast,100.0,False
+Christian Couder,2,Brandon Williams,0.2898936170212766,109,0.0,Patrick Steinhardt,50.0,False
+Kristoffer Haugsbakk,2,Jean-Noël Avila,0.11147540983606558,34,0.0,brian m. carlson,100.0,True
+Toon Claes,2,Matheus Afonso Martins Moreira,0.16666666666666666,10,0.0,Johannes Schindelin,50.0,True
+Ævar Arnfjörð Bjarmason,2,Patrick Steinhardt,0.5098985997102848,1056,0.0,,0.0,True
+Karsten Blees,2,Ben Peart,0.13761467889908258,15,0.0,Erik Faye-Lund,100.0,False
+Elijah Newren,2,Nguyễn Thái Ngọc Duy,0.36113744075829385,381,0.0,Eric Sunshine,50.0,False
+Jeff Hostetler,2,Christian Couder,0.1771117166212534,65,0.0,Andrew Kreimer,50.0,True
+Johannes Schindelin,1,Ævar Arnfjörð Bjarmason,0.4022183304144775,689,0.0,Jeff King,100.0,False
+Jean-Noël Avila,1,Alex Henrie,0.16206896551724137,47,0.0,,0.0,False
+Kristofer Karlsson,1,Abhishek Kumar,0.15384615384615385,10,0.0,,0.0,False
+Karthik Nayak,1,John Cai,0.2235294117647059,76,0.0,,0.0,False
+Erik Faye-Lund,1,Frank Li,0.15873015873015872,10,100.0,Frank Li,100.0,False

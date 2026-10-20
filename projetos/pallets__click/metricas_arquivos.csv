@@ -1,0 +1,178 @@
+arquivo,n_autores,commits,autor_dominante,fatia_dominante,core_number,critico,autores_ativos,dono_ativo
+.devcontainer/devcontainer.json,1,1,David Lord,1.0,1,False,1,True
+.devcontainer/on-create-command.sh,1,1,David Lord,1.0,1,False,1,True
+.editorconfig,1,2,David Lord,1.0,1,False,1,True
+.github/ISSUE_TEMPLATE/bug-report.md,2,3,David Lord,0.6666666666666666,2,False,1,True
+.github/ISSUE_TEMPLATE/config.yml,1,2,David Lord,1.0,1,False,1,True
+.github/ISSUE_TEMPLATE/feature-request.md,2,2,David Lord,0.5,2,False,1,True
+.github/pull_request_template.md,2,3,David Lord,0.6666666666666666,2,False,1,True
+.github/workflows/lock.yaml,3,11,David Lord,0.8181818181818182,3,True,3,True
+.github/workflows/nightly.yaml,1,4,Kevin Deldycke,1.0,1,True,1,True
+.github/workflows/pre-commit.yaml,3,13,David Lord,0.6923076923076923,3,False,3,True
+.github/workflows/publish.yaml,3,21,David Lord,0.8571428571428571,3,True,3,True
+.github/workflows/tests.yaml,7,43,David Lord,0.7674418604651163,4,False,4,True
+.github/workflows/zizmor.yaml,2,3,David Lord,0.6666666666666666,2,False,2,True
+.gitignore,11,17,David Lord,0.29411764705882354,4,False,4,True
+.pre-commit-config.yaml,4,41,David Lord,0.8536585365853658,3,True,4,True
+.readthedocs.yaml,3,12,David Lord,0.6666666666666666,2,False,2,True
+CHANGES.md,6,43,Kevin Deldycke,0.7906976744186046,4,False,6,True
+LICENSE.txt,1,1,David Lord,1.0,1,False,1,True
+README.md,3,6,David Lord,0.6666666666666666,2,False,1,True
+docs/_static/click-icon.svg,1,4,David Lord,1.0,1,True,1,True
+docs/_static/click-logo.svg,1,1,David Lord,1.0,1,False,1,True
+docs/_static/click-name.svg,1,1,David Lord,1.0,1,False,1,True
+docs/advanced.md,2,4,Kevin Deldycke,0.5,2,False,2,True
+docs/api.md,3,5,Kevin Deldycke,0.4,2,False,3,True
+docs/arguments.md,3,7,Kevin Deldycke,0.5714285714285714,3,False,3,True
+docs/changes.md,2,3,Edward G,0.6666666666666666,2,False,2,True
+docs/click-concepts.md,1,2,Jaron Rosenau,1.0,1,False,1,True
+docs/command-line-reference.md,2,4,Edward G,0.5,2,False,2,True
+docs/commands-and-groups.md,2,4,Jaron Rosenau,0.5,2,False,2,True
+docs/commands.md,2,4,Jaron Rosenau,0.5,2,False,2,True
+docs/complex.md,2,5,denuoweb,0.8,2,True,2,True
+docs/conf.py,7,26,David Lord,0.5384615384615384,5,False,3,True
+docs/contrib.md,3,4,Veritia,0.5,2,False,3,True
+docs/contributing.md,1,3,Kevin Deldycke,1.0,1,True,1,True
+docs/design-opinions.md,1,2,Edward Girling,1.0,1,False,1,True
+docs/documentation.md,6,11,Kevin Deldycke,0.36363636363636365,2,False,6,True
+docs/entry-points.md,1,2,denuoweb,1.0,1,False,1,True
+docs/exceptions.md,2,4,Kevin Deldycke,0.5,2,False,2,True
+docs/extending-click.md,1,2,denuoweb,1.0,1,False,1,True
+docs/faqs.md,2,6,Kevin Deldycke,0.8333333333333334,2,True,2,True
+docs/handling-files.md,2,4,Eddie Girling,0.5,2,False,2,True
+docs/index.md,2,3,Kevin Deldycke,0.6666666666666666,2,False,2,True
+docs/license.md,1,2,denuoweb,1.0,1,False,1,True
+docs/option-decorators.md,3,4,denuoweb,0.5,3,False,3,True
+docs/options.md,5,19,Kevin Deldycke,0.5263157894736842,2,False,5,True
+docs/parameter-types.md,2,5,denuoweb,0.6,2,False,2,True
+docs/parameters.md,3,4,Edward G,0.5,2,False,3,True
+docs/prompts.md,1,3,denuoweb,1.0,1,True,1,True
+docs/quickstart.md,4,6,denuoweb,0.5,3,False,4,True
+docs/setuptools.md,1,2,denuoweb,1.0,1,False,1,True
+docs/shell-completion.md,4,7,Kevin Deldycke,0.42857142857142855,3,False,4,True
+docs/standalone-apps.md,1,1,John Aziz,1.0,1,False,1,True
+docs/support-multiple-versions.md,2,2,David Lord,0.5,2,False,2,True
+docs/testing.md,2,8,Kevin Deldycke,0.75,2,False,2,True
+docs/unicode-support.md,2,5,denuoweb,0.8,2,True,2,True
+docs/upgrade-guides.md,2,8,Kevin Deldycke,0.875,2,True,2,True
+docs/utils.md,6,13,denuoweb,0.38461538461538464,4,False,6,True
+docs/virtualenv.md,1,2,denuoweb,1.0,1,False,1,True
+docs/why.md,1,2,denuoweb,1.0,1,False,1,True
+docs/wincmd.md,2,4,denuoweb,0.75,1,False,2,True
+examples/README,4,6,David Lord,0.3333333333333333,2,False,1,True
+examples/aliases/README,2,3,Armin Ronacher,0.6666666666666666,2,False,0,False
+examples/aliases/aliases.ini,1,1,Armin Ronacher,1.0,1,False,0,False
+examples/aliases/aliases.py,4,14,David Lord,0.6428571428571429,2,False,1,True
+examples/aliases/pyproject.toml,1,3,David Lord,1.0,1,True,1,True
+examples/colors/README,2,4,Armin Ronacher,0.5,2,False,1,False
+examples/colors/colors.py,4,8,David Lord,0.5,3,False,1,True
+examples/colors/pyproject.toml,1,3,David Lord,1.0,1,True,1,True
+examples/completion/README,1,3,David Lord,1.0,1,True,1,True
+examples/completion/completion.py,1,3,David Lord,1.0,1,True,1,True
+examples/completion/pyproject.toml,1,3,David Lord,1.0,1,True,1,True
+examples/complex/README,2,3,Armin Ronacher,0.6666666666666666,2,False,0,False
+examples/complex/complex/__init__.py,1,1,Armin Ronacher,1.0,1,False,0,False
+examples/complex/complex/cli.py,3,11,David Lord,0.5454545454545454,3,False,1,True
+examples/complex/complex/commands/__init__.py,1,1,Armin Ronacher,1.0,1,False,0,False
+examples/complex/complex/commands/cmd_init.py,3,5,David Lord,0.6,3,False,1,True
+examples/complex/complex/commands/cmd_status.py,4,5,David Lord,0.4,3,False,1,True
+examples/complex/pyproject.toml,1,3,David Lord,1.0,1,True,1,True
+examples/imagepipe/.gitignore,1,1,Armin Ronacher,1.0,1,False,0,False
+examples/imagepipe/README,2,2,Armin Ronacher,0.5,2,False,1,False
+examples/imagepipe/example01.jpg,1,1,Armin Ronacher,1.0,1,False,0,False
+examples/imagepipe/example02.jpg,1,1,Armin Ronacher,1.0,1,False,0,False
+examples/imagepipe/imagepipe.py,3,10,David Lord,0.8,2,True,1,True
+examples/imagepipe/pyproject.toml,1,3,David Lord,1.0,1,True,1,True
+examples/inout/README,1,1,Armin Ronacher,1.0,1,False,0,False
+examples/inout/inout.py,4,5,Armin Ronacher,0.4,2,False,1,False
+examples/inout/pyproject.toml,1,3,David Lord,1.0,1,True,1,True
+examples/naval/README,1,1,Armin Ronacher,1.0,1,False,0,False
+examples/naval/naval.py,2,6,David Lord,0.6666666666666666,2,False,1,True
+examples/naval/pyproject.toml,1,3,David Lord,1.0,1,True,1,True
+examples/repo/README,1,1,Armin Ronacher,1.0,1,False,0,False
+examples/repo/pyproject.toml,1,3,David Lord,1.0,1,True,1,True
+examples/repo/repo.py,2,15,Armin Ronacher,0.5333333333333333,2,False,1,False
+examples/termui/README,2,2,Armin Ronacher,0.5,2,False,0,False
+examples/termui/pyproject.toml,1,3,David Lord,1.0,1,True,1,True
+examples/termui/termui.py,2,16,Armin Ronacher,0.625,2,False,1,False
+examples/validation/README,1,1,Armin Ronacher,1.0,1,False,0,False
+examples/validation/pyproject.toml,1,3,David Lord,1.0,1,True,1,True
+examples/validation/validation.py,5,13,David Lord,0.46153846153846156,4,False,2,True
+pyproject.toml,11,49,David Lord,0.3877551020408163,5,False,11,True
+src/click/__init__.py,8,53,David Lord,0.7735849056603774,6,False,6,True
+src/click/_compat.py,12,42,David Lord,0.6190476190476191,7,False,6,True
+src/click/_termui_impl.py,27,69,David Lord,0.36231884057971014,7,False,17,True
+src/click/_textwrap.py,3,7,David Lord,0.7142857142857143,3,False,2,True
+src/click/_utils.py,2,4,Kevin Deldycke,0.75,2,False,2,True
+src/click/_winconsole.py,9,22,David Lord,0.6363636363636364,6,False,5,True
+src/click/core.py,74,236,David Lord,0.3008474576271186,7,False,28,True
+src/click/decorators.py,19,56,David Lord,0.5357142857142857,7,False,4,True
+src/click/exceptions.py,15,36,David Lord,0.4444444444444444,7,False,10,True
+src/click/formatting.py,9,22,David Lord,0.5454545454545454,7,False,5,True
+src/click/globals.py,3,12,David Lord,0.8333333333333334,3,True,1,True
+src/click/parser.py,13,32,David Lord,0.53125,7,False,6,True
+src/click/py.typed,1,1,David Lord,1.0,1,False,1,True
+src/click/shell_completion.py,32,53,David Lord,0.24528301886792453,7,False,17,True
+src/click/termui.py,35,77,David Lord,0.3246753246753247,7,False,13,True
+src/click/testing.py,21,49,David Lord,0.40816326530612246,7,False,13,True
+src/click/types.py,32,84,David Lord,0.44047619047619047,7,False,13,True
+src/click/utils.py,21,56,David Lord,0.5,7,False,8,True
+tests/conftest.py,4,11,Armin Ronacher,0.5454545454545454,4,False,1,False
+tests/test_abort_interrupt.py,1,1,Kevin Deldycke,1.0,1,False,1,True
+tests/test_arguments.py,20,66,Armin Ronacher,0.2878787878787879,7,False,7,False
+tests/test_basic.py,20,60,Armin Ronacher,0.25,7,False,7,False
+tests/test_chain.py,6,20,Armin Ronacher,0.4,3,False,3,False
+tests/test_command_decorators.py,3,4,David Lord,0.5,2,False,1,True
+tests/test_commands.py,21,46,Armin Ronacher,0.2826086956521739,6,False,6,False
+tests/test_compat.py,9,19,David Lord,0.3157894736842105,4,False,2,True
+tests/test_context.py,13,30,Armin Ronacher,0.23333333333333334,5,False,4,False
+tests/test_custom_classes.py,1,1,David Lord,1.0,1,False,1,True
+tests/test_defaults.py,6,19,David Lord,0.42105263157894735,5,False,5,True
+tests/test_deprecations.py,2,7,Kevin Deldycke,0.8571428571428571,2,True,2,True
+tests/test_exceptions/__init__.py,1,1,Eddie Girling,1.0,1,False,1,True
+tests/test_exceptions/test_FileError.py,1,1,Eddie Girling,1.0,1,False,1,True
+tests/test_formatting.py,19,33,David Lord,0.18181818181818182,7,False,4,True
+tests/test_imports.py,14,32,David Lord,0.3125,7,False,5,True
+tests/test_info_dict.py,7,8,Kevin Deldycke,0.25,4,False,5,True
+tests/test_normalization.py,4,7,David Lord,0.42857142857142855,4,False,2,True
+tests/test_options.py,53,134,Kevin Deldycke,0.27611940298507465,7,False,15,True
+tests/test_parser.py,3,3,David Lord,0.3333333333333333,3,False,1,True
+tests/test_shell_completion.py,21,33,David Lord,0.2727272727272727,5,False,14,True
+tests/test_stream_lifecycle.py,1,2,Kevin Deldycke,1.0,1,False,1,True
+tests/test_termui.py,31,70,Kevin Deldycke,0.3,7,False,12,True
+tests/test_testing.py,24,48,David Lord,0.22916666666666666,7,False,9,True
+tests/test_types/__init__.py,1,1,Eddie Girling,1.0,1,False,1,True
+tests/test_types/test_Choice.py,1,1,Eddie Girling,1.0,1,False,1,True
+tests/test_types/test_File.py,1,1,Eddie Girling,1.0,1,False,1,True
+tests/test_types/test_FloatRange.py,1,1,Eddie Girling,1.0,1,False,1,True
+tests/test_types/test_FuncParamType.py,1,1,Eddie Girling,1.0,1,False,1,True
+tests/test_types/test_IntRange.py,1,1,Eddie Girling,1.0,1,False,1,True
+tests/test_types/test_ParamType.py,1,1,Eddie Girling,1.0,1,False,1,True
+tests/test_types/test_Path.py,2,2,Eddie Girling,0.5,2,False,2,True
+tests/test_types/test_convert_type.py,1,1,Eddie Girling,1.0,1,False,1,True
+tests/test_utils/__init__.py,1,1,Edward G,1.0,1,False,1,True
+tests/test_utils/test_KeepOpenFile.py,2,2,Eddie Girling,0.5,2,False,2,True
+tests/test_utils/test_LazyFile.py,2,2,Eddie Girling,0.5,2,False,2,True
+tests/test_utils/test__detect_program_name.py,1,1,Edward G,1.0,1,False,1,True
+tests/test_utils/test__expand_args.py,1,1,Edward G,1.0,1,False,1,True
+tests/test_utils/test_confirm.py,1,1,Edward G,1.0,1,False,1,True
+tests/test_utils/test_echo.py,2,2,Edward G,0.5,2,False,2,True
+tests/test_utils/test_echo_via_pager.py,2,2,Edward G,0.5,2,False,2,True
+tests/test_utils/test_format_filename.py,1,1,Edward G,1.0,1,False,1,True
+tests/test_utils/test_make_default_short_help.py,3,3,Eddie Girling,0.3333333333333333,3,False,3,True
+tests/test_utils/test_open_file.py,2,4,Kevin Deldycke,0.75,2,False,2,True
+tests/test_utils/test_prompt.py,2,2,Edward G,0.5,2,False,2,True
+tests/test_utils/test_sentinel.py,2,2,Edward G,0.5,2,False,2,True
+tests/test_utils/test_style.py,2,3,Kevin Deldycke,0.6666666666666666,2,False,2,True
+tests/typing/typing_aliased_group.py,3,4,David Lord,0.5,3,False,2,True
+tests/typing/typing_confirmation_option.py,3,4,David Lord,0.5,3,False,2,True
+tests/typing/typing_edit.py,1,1,Kevin Deldycke,1.0,1,False,1,True
+tests/typing/typing_group_kw_options.py,1,1,layday,1.0,1,False,0,False
+tests/typing/typing_help_option.py,1,1,Tin Tvrtković,1.0,1,False,0,False
+tests/typing/typing_options.py,3,4,David Lord,0.5,3,False,2,True
+tests/typing/typing_password_option.py,1,1,Tin Tvrtković,1.0,1,False,0,False
+tests/typing/typing_path.py,1,1,Kevin Deldycke,1.0,1,False,1,True
+tests/typing/typing_progressbar.py,1,1,Anthony Sottile,1.0,1,False,1,True
+tests/typing/typing_prompt.py,1,1,Kevin Deldycke,1.0,1,False,1,True
+tests/typing/typing_simple_example.py,2,3,David Lord,0.6666666666666666,2,False,1,True
+tests/typing/typing_version_option.py,3,4,David Lord,0.5,3,False,2,True

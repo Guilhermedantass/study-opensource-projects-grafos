@@ -1,0 +1,2 @@
+autor,arquivos_criticos,sucessor_jaccard,jaccard,arquivos_em_comum,cobertura_criticos_pct,melhor_cobertura,melhor_cobertura_pct,sucessor_ativo
+David Lord,33,Armin Ronacher,0.2672811059907834,58,3.0303030303030303,pgjones,27.27272727272727,False

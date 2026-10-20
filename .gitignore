@@ -1,0 +1,13 @@
+# ambiente e caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# clone do Flask feito pelo notebook (é recriado automaticamente)
+repos/
+
+# material de apoio que não faz parte da entrega
+Projeto_Avaliacao_1-1.pdf
+video/

@@ -1,0 +1,4 @@
+autor,arquivos_criticos,sucessor_jaccard,jaccard,arquivos_em_comum,cobertura_criticos_pct,melhor_cobertura,melhor_cobertura_pct,sucessor_ativo
+David Lord,18,Kevin Deldycke,0.34375,44,16.666666666666664,Edward G,16.666666666666664,True
+Kevin Deldycke,5,David Lord,0.34375,44,0.0,Edward G,40.0,True
+denuoweb,3,Jaron Rosenau,0.19047619047619047,4,33.33333333333333,Jaron Rosenau,33.33333333333333,True

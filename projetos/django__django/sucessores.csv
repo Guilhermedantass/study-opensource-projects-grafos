@@ -1,0 +1,13 @@
+autor,arquivos_criticos,sucessor_jaccard,jaccard,arquivos_em_comum,cobertura_criticos_pct,melhor_cobertura,melhor_cobertura_pct,sucessor_ativo
+Claude Paroz,1380,Mariusz Felisiak,0.34726411029728566,1612,12.028985507246377,Carlton Gibson,13.043478260869565,True
+Tim Graham,11,Jon Dufresne,0.3534577387486279,644,0.0,Alasdair Nicol,18.181818181818183,False
+Mariusz Felisiak,5,Claude Paroz,0.34726411029728566,1612,0.0,Florian Apolloner,20.0,True
+Jacob Walls,3,Sarah Boyce,0.25253378378378377,299,0.0,,0.0,True
+David Smith,2,Tim Graham,0.2678185745140389,496,0.0,Gregor Jerše,100.0,True
+Carlton Gibson,2,Mariusz Felisiak,0.24809575625680086,684,50.0,Mariusz Felisiak,50.0,True
+Natalia,1,Sarah Boyce,0.29742033383915023,392,0.0,,0.0,True
+Simon Charette,1,Tim Graham,0.33181818181818185,584,0.0,,0.0,True
+Mike Edmunds,1,Anton Samarchyan,0.12100456621004566,53,0.0,Carlton Gibson,100.0,False
+farhan,1,Santiago Basulto,0.12903225806451613,4,0.0,Sarah Boyce,100.0,False
+Hasan Ramezani,1,Simon Charette,0.2836398838334947,293,0.0,,0.0,True
+Nick Pope,1,Jon Dufresne,0.2984590429845904,368,0.0,,0.0,False

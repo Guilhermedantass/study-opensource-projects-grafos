@@ -1,0 +1,4 @@
+autor,arquivos_criticos,sucessor_jaccard,jaccard,arquivos_em_comum,cobertura_criticos_pct,melhor_cobertura,melhor_cobertura_pct,sucessor_ativo
+Sebastián Ramírez,291,Motov Yurii,0.4625040231734792,1437,40.893470790378004,Motov Yurii,40.893470790378004,True
+Motov Yurii,1,Sebastián Ramírez,0.4625040231734792,1437,100.0,Sebastián Ramírez,100.0,True
+Nils-Hero Lindemann,1,Nils Lindemann,0.3595890410958904,105,0.0,Sebastián Ramírez,100.0,False
