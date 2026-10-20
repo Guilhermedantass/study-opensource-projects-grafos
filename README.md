@@ -12,9 +12,7 @@ Projeto da Unidade 01 de **Algoritmos e Estrutura de Dados II · Grafos** (UFRN 
 
 ## Vídeo
 
-> ⚠️ **PREENCHER antes de entregar:** link do YouTube (público ou não listado, nunca privado), até 15 minutos no total, com todos os integrantes de câmera aberta. Sem este link a nota do projeto é zero.
-
-**Link:** https://youtu.be/PREENCHER
+**Link:** https://youtu.be/LkElOkSsVVQ
 
 ---
 
