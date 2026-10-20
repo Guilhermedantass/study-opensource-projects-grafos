@@ -132,8 +132,8 @@ Também é preciso internet: o notebook baixa o histórico do Flask (cerca de 15
 ### Passo 2. Baixar o projeto
 
 ```bash
-git clone https://github.com/guilhermedantass/quem-sustenta-o-codigo.git
-cd quem-sustenta-o-codigo
+git clone https://github.com/guilhermedantass/study-opensource-projects-grafos.git
+cd study-opensource-projects-grafos
 ```
 
 > **Windows:** clone numa pasta de caminho curto, como `C:\aed2`. Dentro de pastas muito profundas, o limite de tamanho de caminho do Windows impede uma das bibliotecas (`pyarrow`) de carregar.
